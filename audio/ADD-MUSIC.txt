@@ -1,0 +1,1 @@
+Color Your Night is included. Initial loading prepares assets, then CLICK ANYWHERE TO ENTER starts music and profile animation together. The sound slider adjusts music; speaker mutes all audio. External-link loading muffles music and fades it while the opaque curtain stays visible. bgm.mp3 is used when hosted; local-track.js contains the same track for local-file playback.
